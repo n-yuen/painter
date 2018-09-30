@@ -14,7 +14,7 @@ A LinkedList that I built myself from scratch (it's not better than the built in
 
 # Credits
 
-Teacher: Brian Sea from the Head-Royce School
+Teacher: Brian Sea from the Head-Royce School. Assigned: 2016
 
 # Author
 
